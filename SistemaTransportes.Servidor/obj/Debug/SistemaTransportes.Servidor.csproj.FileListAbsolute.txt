@@ -1,0 +1,15 @@
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Servidor.exe.config
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Servidor.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Servidor.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.csprojAssemblyReference.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.frmPrincipalServidor.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.Properties.Resources.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.csproj.GenerateResource.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.csproj.CoreCompileInputs.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Datos.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Entidades.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Datos.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\bin\Debug\SistemaTransportes.Entidades.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Servidor\obj\Debug\SistemaTransportes.Servidor.csproj.CopyComplete

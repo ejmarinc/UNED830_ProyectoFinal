@@ -1,0 +1,6 @@
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\bin\Debug\SistemaTransportes.Entidades.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\bin\Debug\SistemaTransportes.Entidades.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\obj\Debug\SistemaTransportes.Entidades.csprojAssemblyReference.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\obj\Debug\SistemaTransportes.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\obj\Debug\SistemaTransportes.Entidades.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTransportes.Entidades\obj\Debug\SistemaTransportes.Entidades.pdb

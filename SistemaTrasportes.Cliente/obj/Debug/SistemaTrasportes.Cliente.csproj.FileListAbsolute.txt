@@ -1,0 +1,17 @@
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.csprojAssemblyReference.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.frmPrincipalCliente.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.Properties.Resources.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.csproj.GenerateResource.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTrasportes.Cliente.exe.config
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTrasportes.Cliente.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTrasportes.Cliente.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTransportes.Datos.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTransportes.Entidades.dll
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTransportes.Datos.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\bin\Debug\SistemaTransportes.Entidades.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.csproj.CopyComplete
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.frmRegistrarConductor.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\ProyectoFinal_ErickMarin\SistemaTrasportes.Cliente\obj\Debug\SistemaTrasportes.Cliente.frmAutenticacionCliente.resources
